@@ -1,0 +1,11 @@
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\01-Entities.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\01-Entities.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\01-Entities.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\01-Entities.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.TaskManager.resources
+C:\Users\Ferhat\Desktop\Task Management\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
